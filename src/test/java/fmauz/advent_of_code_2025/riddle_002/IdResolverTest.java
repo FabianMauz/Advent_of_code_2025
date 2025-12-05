@@ -1,6 +1,5 @@
-package riddle_002;
+package fmauz.advent_of_code_2025.riddle_002;
 
-import fmauz.advent_of_code_2025.riddle_002.IdResolver;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

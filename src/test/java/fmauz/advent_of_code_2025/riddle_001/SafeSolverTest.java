@@ -1,4 +1,4 @@
-package riddle_001;
+package fmauz.advent_of_code_2025.riddle_001;
 
 import fmauz.advent_of_code_2025.riddle_001.SafeSolver;
 import org.junit.jupiter.api.Assertions;
